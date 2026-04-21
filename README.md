@@ -33,15 +33,15 @@ Website ini dibangun dengan HTML, CSS, dan JavaScript murni (tanpa framework) se
 
 | Fitur | Keterangan |
 |---|---|
-| 🎬 Loading Screen | Animasi intro dengan progress bar |
-| ⭐ Hero Particles | Partikel bintang interaktif berbasis Canvas |
-| 🏔 Parallax Effect | Efek kedalaman saat scroll di section hero |
-| 👁 Scroll Reveal | Elemen muncul animasi saat masuk viewport |
-| 🔢 Counter Animasi | Angka statistik berhitung otomatis |
-| 📸 Drag Gallery | Galeri foto dapat di-drag kiri-kanan |
-| 📱 Fully Responsive | Tampilan optimal di PC, tablet, dan HP |
-| 🍔 Hamburger Menu | Navigasi mobile dengan overlay |
-| ⚡ Zero Dependencies | Murni HTML/CSS/JS, tanpa library eksternal |
+| Loading Screen | Animasi intro dengan progress bar |
+| Hero Particles | Partikel bintang interaktif berbasis Canvas |
+| Parallax Effect | Efek kedalaman saat scroll di section hero |
+| Scroll Reveal | Elemen muncul animasi saat masuk viewport |
+| Counter Animasi | Angka statistik berhitung otomatis |
+| Drag Gallery | Galeri foto dapat di-drag kiri-kanan |
+| Fully Responsive | Tampilan optimal di PC, tablet, dan HP |
+| Hamburger Menu | Navigasi mobile dengan overlay |
+| Zero Dependencies | Murni HTML/CSS/JS, tanpa library eksternal |
 
 ---
 
